@@ -17,4 +17,10 @@ UE4 기반의 Hololens2를 활용한 AR 교합 시뮬레이션 애플리케이�
 # 2) Dental_yolo_v1
 
 Dental_dataset_level3 opensorce를 활용한 치아 3D 모델의 object detection model 개발
-- 
+- Python Library List:
+- 1) opencv-python
+  2) numpy
+  3) matplotlib
+  4) glob
+  5) ultralytics
+- 세부사항 기술문서 참고
